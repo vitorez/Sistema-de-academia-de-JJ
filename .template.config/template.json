@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "João Vitor Lobo",
+  "classifications": ["web", "api", "aspnet"],
+  "identity": "TemplateDotnet.Template",
+  "name": "Template Dotnet Template",
+  "shortName": "referenceAuth",
+  "sourceName": "TemplateDotnet",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  }
+}
