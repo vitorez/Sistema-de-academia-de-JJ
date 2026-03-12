@@ -1,0 +1,57 @@
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.deps.json
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.runtimeconfig.json
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.AssemblyReference.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfoInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfo.cs
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.CoreCompileInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Referenc.EC5FB18E.Up2Date
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\refint\Reference.Infra.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.genruntimeconfig.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Infra\obj\Debug\net10.0\ref\Reference.Infra.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Infra.deps.json
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Infra.runtimeconfig.json
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Infra.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Infra.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Referenc.EC5FB18E.Up2Date
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\refint\Reference.Infra.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\Reference.Infra.genruntimeconfig.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Infra\obj\Debug\net10.0\ref\Reference.Infra.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.deps.json
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.runtimeconfig.json
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Infra.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Referenc.EC5FB18E.Up2Date
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\refint\Reference.Infra.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\Reference.Infra.genruntimeconfig.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Infra\obj\Debug\net10.0\ref\Reference.Infra.dll

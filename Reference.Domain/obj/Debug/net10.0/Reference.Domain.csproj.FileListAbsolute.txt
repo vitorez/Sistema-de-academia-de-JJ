@@ -1,0 +1,33 @@
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.deps.json
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfoInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfo.cs
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.csproj.CoreCompileInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\refint\Reference.Domain.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Domain\obj\Debug\net10.0\ref\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\bin\Debug\net10.0\Reference.Domain.deps.json
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\refint\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Domain\obj\Debug\net10.0\ref\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.deps.json
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\refint\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Domain\obj\Debug\net10.0\ref\Reference.Domain.dll

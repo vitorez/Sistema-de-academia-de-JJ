@@ -1,0 +1,45 @@
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\bin\Debug\net10.0\Reference.Application.deps.json
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.AssemblyReference.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfoInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfo.cs
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.CoreCompileInputs.cache
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Referenc.B76F209A.Up2Date
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\refint\Reference.Application.dll
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\Reference.Application.pdb
+C:\Users\est_jvnascimento\templatedotnet\Reference.Application\obj\Debug\net10.0\ref\Reference.Application.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\bin\Debug\net10.0\Reference.Application.deps.json
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfo.cs
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Referenc.B76F209A.Up2Date
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\refint\Reference.Application.dll
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\Nova pasta (2)\Reference.Application\obj\Debug\net10.0\ref\Reference.Application.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\bin\Debug\net10.0\Reference.Application.deps.json
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\bin\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\bin\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\bin\Debug\net10.0\Reference.Domain.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\bin\Debug\net10.0\Reference.Domain.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfoInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.AssemblyInfo.cs
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Referenc.B76F209A.Up2Date
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\refint\Reference.Application.dll
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\Reference.Application.pdb
+C:\Users\vitor\Desktop\TemplateDotNet\Reference.Application\obj\Debug\net10.0\ref\Reference.Application.dll
