@@ -3410,11 +3410,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.API\\Reference.API.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\TemplateDotNet\\Reference.API\\Reference.API.csproj",
       "projectName": "Reference.API",
-      "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.API\\Reference.API.csproj",
+      "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.API\\Reference.API.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.API\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3429,11 +3429,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj": {
-              "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj"
+            "C:\\Users\\vitor\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj": {
+              "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj"
             },
-            "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Infra\\Reference.Infra.csproj": {
-              "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Infra\\Reference.Infra.csproj"
+            "C:\\Users\\vitor\\TemplateDotNet\\Reference.Infra\\Reference.Infra.csproj": {
+              "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Infra\\Reference.Infra.csproj"
             }
           }
         }

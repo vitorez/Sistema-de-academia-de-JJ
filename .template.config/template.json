@@ -6,8 +6,25 @@
   "name": "Template Dotnet Template",
   "shortName": "referenceAuth",
   "sourceName": "TemplateDotnet",
+  "symbols": {
+    "DomainName": {
+      "type": "parameter",
+      "description": "Domain name (replaces 'Reference')",
+      "defaultValue": "MyApp",
+      "replaces": "Reference"
+    }
+  },
   "tags": {
     "language": "C#",
     "type": "solution"
-  }
+  },
+  "exclude": [
+    "**/bin/**",
+    "**/obj/**",
+    "**/.vs/**",
+    "**/.vscode/**",
+    ".git/**",
+    ".gitignore",
+    "*.user"
+  ]
 }

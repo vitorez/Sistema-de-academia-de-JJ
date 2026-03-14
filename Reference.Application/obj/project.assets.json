@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj",
       "projectName": "Reference.Application",
-      "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj",
+      "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Application\\Reference.Application.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Application\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj": {
-              "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj"
+            "C:\\Users\\vitor\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj": {
+              "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj"
             }
           }
         }

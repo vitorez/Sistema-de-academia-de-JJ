@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj",
       "projectName": "Reference.Domain",
-      "projectPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj",
+      "projectPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Domain\\Reference.Domain.csproj",
       "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitor\\Desktop\\TemplateDotNet\\Reference.Domain\\obj\\",
+      "outputPath": "C:\\Users\\vitor\\TemplateDotNet\\Reference.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
