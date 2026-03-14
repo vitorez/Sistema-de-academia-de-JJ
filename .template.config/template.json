@@ -5,7 +5,7 @@
   "identity": "TemplateDotnet.Template",
   "name": "Template Dotnet Template",
   "shortName": "referenceAuth",
-  "sourceName": "TemplateDotnet",
+  "sourceName": "Reference",
   "symbols": {
     "DomainName": {
       "type": "parameter",
