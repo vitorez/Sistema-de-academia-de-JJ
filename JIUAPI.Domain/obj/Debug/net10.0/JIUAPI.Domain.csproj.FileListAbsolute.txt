@@ -1,0 +1,12 @@
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\bin\Debug\net10.0\JIUAPI.Domain.deps.json
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\bin\Debug\net10.0\JIUAPI.Domain.dll
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\bin\Debug\net10.0\JIUAPI.Domain.pdb
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.AssemblyInfo.cs
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.sourcelink.json
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.dll
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\refint\JIUAPI.Domain.dll
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\JIUAPI.Domain.pdb
+C:\Users\vitor\projetojj\src\JIUAPI.Domain\obj\Debug\net10.0\ref\JIUAPI.Domain.dll

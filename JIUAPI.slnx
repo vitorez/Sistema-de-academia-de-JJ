@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JIUAPI.API/JIUAPI.API.csproj" />
+  <Project Path="JIUAPI.Application/JIUAPI.Application.csproj" />
+  <Project Path="JIUAPI.Domain/JIUAPI.Domain.csproj" />
+  <Project Path="JIUAPI.Infra/JIUAPI.Infra.csproj" />
+</Solution>

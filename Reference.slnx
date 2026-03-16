@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="Reference.API/Reference.API.csproj" />
-  <Project Path="Reference.Application/Reference.Application.csproj" />
-  <Project Path="Reference.Domain/Reference.Domain.csproj" />
-  <Project Path="Reference.Infra/Reference.Infra.csproj" />
-</Solution>
