@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JIUAPI.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4fa24db5e4da17e70a4c2fd5750fd0d7d28ab2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c61d6462148e34f4d00c39dd6e2764383a7c18a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("JIUAPI.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JIUAPI.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
