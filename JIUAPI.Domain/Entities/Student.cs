@@ -4,11 +4,11 @@ public class Student
 {
     public int Id { get; set; }
     public int UserId { get; set; }
-    public int CurrentBeltId { get; set; } // Faixa atual
-    public int CurrentDegree { get; set; } = 0; // Grau atual (0-3 geralmente)
-    public int ClassesCompleted { get; set; } = 0; // Total de aulas completadas
-    public DateTime EnrolledDate { get; set; } = DateTime.UtcNow; // Data de inscrição
-    public bool IsActive { get; set; } = true; // Se está ativo/inativo
+    public int CurrentBeltId { get; set; } // faixa atual
+    public int CurrentDegree { get; set; } = 0; // grau atual 
+    public int ClassesCompleted { get; set; } = 0; // aulas que foram completas
+    public DateTime EnrolledDate { get; set; } = DateTime.UtcNow; // data de matricula
+    public bool IsActive { get; set; } = true; // se está ativo ou n
 
     public Belt? CurrentBelt { get; set; }
     public ApplicationUser? User { get; set; }

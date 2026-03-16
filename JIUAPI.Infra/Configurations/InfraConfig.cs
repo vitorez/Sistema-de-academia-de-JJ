@@ -18,7 +18,7 @@ public static class InfraConfig
     {
         services.AddDbContext<AppDbContext>(options =>
         options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
-        b => b.MigrationsAssembly(typeof(ServiceContainer).Assembly.FullName)),
+        b => b.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)), //mudei essa linha
         ServiceLifetime.Scoped);
 
         services.AddAuthentication(options =>
